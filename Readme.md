@@ -1,4 +1,4 @@
-Jupyter Noteboo files i made while learning ml.
+Jupyter Notebook files i made while learning ml.
 <br>
 
 > These contain very basic ml code
